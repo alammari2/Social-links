@@ -18,8 +18,7 @@ A sleek, dark-themed social links profile component. This project focuses on ver
 
 
 ## 🔗 Live Demo
-Check out the live version of this project here:
-[https://alammari2.github.io/social-links-profile/](https://alammari2.github.io/social-links-profile/)
+Check out the live version of this project here:https://alammari2.github.io/Social-links/
 
 ## 👤 Author
 - Alaa alammari
